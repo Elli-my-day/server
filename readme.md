@@ -1,3 +1,9 @@
+##
+
+```
+docker-compose up -d --build
+```
+
 ## 3-layer architecture
 
 controller(routes) -- service -- data access
