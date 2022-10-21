@@ -2,7 +2,7 @@ import express, { type Request, Response, NextFunction } from "express";
 import path from "path";
 import dotenv from "dotenv";
 import morgan from "morgan";
-import logger, { stream } from "./utils/winston.js";
+import logger, { stream } from "./utils/winston";
 
 dotenv.config(); // ({ path: path.join(__dirname, './env/server.env') });//dotenv : env 로드 모듈 server.env 환경변수 가져오기
 
