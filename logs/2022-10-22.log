@@ -22,3 +22,11 @@
 2022-10-22 16:38:36 info: info test
 2022-10-22 16:38:36 info: [0mGET /api/test/info [32m200[0m 19.218 ms - 24[0m
 
+2022-10-22 16:55:40 info: Server listening on port 5000
+2022-10-22 16:58:49 info: Server listening on port 5000
+2022-10-22 17:00:11 info: Server listening on port 5000
+2022-10-22 17:02:08 info: Server listening on port 5000
+2022-10-22 17:05:32 info: Server listening on port 5000
+2022-10-22 17:06:14 info: Server listening on port 5000
+2022-10-22 17:08:50 info: Server listening on port 5000
+2022-10-22 17:22:27 info: Server listening on port 5000

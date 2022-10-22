@@ -2,6 +2,7 @@ import dotenv from "dotenv";
 import path from "path";
 import "http";
 import cors from "cors";
+import routes from "./api";
 dotenv.config({ path: path.join(__dirname, "./config.env") });
 
 import express, { type Request, Response, NextFunction } from "express";
@@ -20,6 +21,7 @@ const morganFormat = process.env.NODE_ENV !== "production" ? "dev" : combined; /
 
 app.use(express.json());
 app.use(cors());
+app.use("/api", routes());
 connectDB();
 
 app.use(morgan(morganFormat, { stream: stream })); // morgan 로그 설정
