@@ -31,6 +31,7 @@
     "paths": {
       "@/api/*": ["./src/api/*"],
       "@/services/*": ["./src/services/*"],
+      "@/loaders/*": ["./src/loaders/*"],
       "@/middlewares/*": ["./src/middlewares/*"],
       "@/models/*": ["./src/models/*"],
       "@/utils/*": ["./src/utils/*"],

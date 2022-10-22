@@ -1,5 +1,5 @@
 import { Router } from "express";
-import calendar from "./routes/calendar";
+import calendar from "@/api/routes/calendar";
 
 export default () => {
   const app = Router();

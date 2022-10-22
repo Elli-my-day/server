@@ -15,7 +15,7 @@ const logFormat = printf((info) => {
  * Log Level
  * error: 0, warn: 1, info: 2, http: 3, verbose: 4, debug: 5, silly: 6
  */
-const logger = winston.createLogger({
+const Logger = winston.createLogger({
   format: combine(
     timestamp({
       format: "YYYY-MM-DD HH:mm:ss",
@@ -56,13 +56,13 @@ const logger = winston.createLogger({
 // morgan wiston 설정
 export const stream = {
   write: (message: any) => {
-    logger.info(message);
+    Logger.info(message);
   },
 };
 
 // Production 환경이 아닌 경우(dev 등) 배포 환경에서는 최대한 자원을 안잡아 먹는 로그를 출력해야함
 if (process.env.NODE_ENV !== "production") {
-  logger.add(
+  Logger.add(
     new winston.transports.Console({
       format: combine(
         colorize({ all: true }), // console 에 출력할 로그 컬러 설정 적용함
@@ -72,4 +72,4 @@ if (process.env.NODE_ENV !== "production") {
   );
 }
 
-export default logger;
+export default Logger;

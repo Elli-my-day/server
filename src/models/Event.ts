@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { IEvent } from "src/types/calendar";
+import { IEvent } from "@/types/calendar";
 
 const validateYear = (year: string) => {
   const yearRegex = /^(19\d\d|2\d\d\d)$/;

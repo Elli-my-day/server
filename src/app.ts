@@ -1,65 +1,34 @@
-import dotenv from "dotenv";
-import path from "path";
-import "http";
-import cors from "cors";
-import routes from "./api";
-dotenv.config({ path: path.join(__dirname, "./config.env") });
+// 실제 서비스에서는 pm2 필요! https://chanyeong.com/blog/post/35
 
-import express, { type Request, Response, NextFunction } from "express";
+import env from "@/config/env";
+import express from "express";
+import Logger from "@/utils/winston";
 
-import morgan from "morgan";
-import logger, { stream } from "./utils/winston";
-import connectDB from "./config/db";
-import EventModel from "./models/Event";
+async function startServer() {
+  const app = express();
 
-const app = express();
-const port = process.env.PORT || 5000; // process.env.port
-const combined =
-  ':remote-addr - :remote-user ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ":user-agent"';
-// 기존 combined 포멧에서 timestamp만 제거
-const morganFormat = process.env.NODE_ENV !== "production" ? "dev" : combined; // NOTE: morgan 출력 형태 server.env에서 NODE_ENV 설정 production : 배포 dev : 개발
+  /**
+   * https://github.dev/santiq/bulletproof-nodejs
+   * A little hack here
+   * Import/Export can only be used in 'top-level code'
+   * Well, at least in node 10 without babel and at the time of writing
+   * So we are using good old require.
+   **/
 
-app.use(express.json());
-app.use(cors());
-app.use("/api", routes());
-connectDB();
+  await require("./loaders").default({ expressApp: app });
 
-app.use(morgan(morganFormat, { stream: stream })); // morgan 로그 설정
-
-app.get("/api/test/info", (req: Request, res: Response, next: NextFunction) => {
-  logger.info("info test");
-  const event = new EventModel({
-    id: "2",
-    title: "qqq",
-    start: "2022-10-21",
-    end: "2022-10-26",
-  });
-  event
-    .save()
-    .then(() => console.log("success"))
-    .catch((err) => console.log(err));
-  res.status(200).send({
-    message: "info test!",
-  });
-});
-
-app.get("/api/test/warn", (req: Request, res: Response, next: NextFunction) => {
-  logger.warn("warning test");
-  res.status(400).send({
-    message: "warning test!",
-  });
-});
-
-app.get(
-  "/api/test/error",
-  (req: Request, res: Response, next: NextFunction) => {
-    logger.error("error test");
-    res.status(500).send({
-      message: "error test!",
+  app
+    .listen(env.port, () => {
+      Logger.info(`
+      ################################################
+      🛡️  Server listening on port: ${env.port} 🛡️
+      ################################################
+    `);
+    })
+    .on("error", (err) => {
+      Logger.error(err);
+      process.exit(1);
     });
-  }
-);
+}
 
-app.listen(port, () => {
-  logger.info(`Server listening on port ${port}`);
-});
+startServer();
