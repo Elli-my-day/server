@@ -1,0 +1,24 @@
+2022-10-22 16:07:22 info: Server listening on port 5000
+2022-10-22 16:08:00 info: Server listening on port 5000
+2022-10-22 16:08:42 info: Server listening on port 5000
+2022-10-22 16:09:22 info: Server listening on port 5000
+2022-10-22 16:22:24 info: Server listening on port 5000
+2022-10-22 16:25:31 info: Server listening on port 5000
+2022-10-22 16:26:12 info: Server listening on port 5000
+2022-10-22 16:27:05 info: Server listening on port 5000
+2022-10-22 16:32:10 info: Server listening on port 5000
+2022-10-22 16:34:46 info: info test
+2022-10-22 16:34:46 info: [0mGET /api/test/info [32m200[0m 26.244 ms - 24[0m
+
+2022-10-22 16:37:14 info: Server listening on port 5000
+2022-10-22 16:37:19 info: info test
+2022-10-22 16:37:19 info: [0mGET /api/test/info [32m200[0m 22.465 ms - 24[0m
+
+2022-10-22 16:37:58 info: Server listening on port 5000
+2022-10-22 16:38:00 info: info test
+2022-10-22 16:38:00 info: [0mGET /api/test/info [32m200[0m 21.342 ms - 24[0m
+
+2022-10-22 16:38:30 info: Server listening on port 5000
+2022-10-22 16:38:36 info: info test
+2022-10-22 16:38:36 info: [0mGET /api/test/info [32m200[0m 19.218 ms - 24[0m
+

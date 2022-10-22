@@ -14,6 +14,11 @@
             "date": 1666322159284,
             "name": "logs\\warn\\2022-10-21.warn.log",
             "hash": "5e4c1ed420df98d626a51d7b947a16da1bbbf555a37a16c249e18e0af9a3908f"
+        },
+        {
+            "date": 1666422436421,
+            "name": "logs\\warn\\2022-10-22.warn.log",
+            "hash": "f781e3fc1cefe61729e9aa056d8fabf924ed7ade51f254b3abdd3bc16564f664"
         }
     ],
     "hashType": "sha256"

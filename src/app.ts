@@ -9,6 +9,7 @@ import express, { type Request, Response, NextFunction } from "express";
 import morgan from "morgan";
 import logger, { stream } from "./utils/winston";
 import connectDB from "./config/db";
+import EventModel from "./models/Event";
 
 const app = express();
 const port = process.env.PORT || 5000; // process.env.port
@@ -25,6 +26,16 @@ app.use(morgan(morganFormat, { stream: stream })); // morgan 로그 설정
 
 app.get("/api/test/info", (req: Request, res: Response, next: NextFunction) => {
   logger.info("info test");
+  const event = new EventModel({
+    id: "2",
+    title: "qqq",
+    start: "2022-10-21",
+    end: "2022-10-26",
+  });
+  event
+    .save()
+    .then(() => console.log("success"))
+    .catch((err) => console.log(err));
   res.status(200).send({
     message: "info test!",
   });

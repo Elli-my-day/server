@@ -24,3 +24,24 @@
 2022-10-21 14:40:14 info: info test
 2022-10-21 14:40:14 info: [0mGET /api/test/info [32m200[0m 10.038 ms - 24[0m
 
+2022-10-21 14:41:10 info: Server listening on port 5000
+2022-10-21 14:41:14 info: info test
+2022-10-21 14:41:14 info: [0mGET /api/test/info [32m200[0m 10.460 ms - 24[0m
+
+2022-10-21 14:43:04 info: Server listening on port 5000
+2022-10-21 14:43:21 info: Server listening on port 5000
+2022-10-21 14:44:25 info: Server listening on port 5000
+2022-10-21 14:44:38 info: Server listening on port 5000
+2022-10-21 14:46:46 info: Server listening on port 5000
+2022-10-21 14:47:38 info: Server listening on port 5000
+2022-10-21 14:50:18 info: Server listening on port 5000
+2022-10-21 14:50:35 info: Server listening on port 5000
+2022-10-21 14:51:37 info: Server listening on port 5000
+2022-10-21 14:52:20 info: Server listening on port 5000
+2022-10-21 14:52:50 info: Server listening on port 5000
+2022-10-21 14:53:06 info: Server listening on port 5000
+2022-10-21 14:53:48 info: Server listening on port 5000
+2022-10-21 14:54:10 info: Server listening on port 5000
+2022-10-21 14:54:28 info: Server listening on port 5000
+2022-10-21 14:54:48 info: Server listening on port 5000
+2022-10-21 14:55:12 info: Server listening on port 5000
