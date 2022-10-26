@@ -8,20 +8,23 @@ export default (app: Router) => {
   app.use("/calendar", route);
 
   route.get("/events", (req: Request, res: Response) => {
-    logger.info("info test");
-    const event = new EventModel({
-      id: "2",
-      title: "qqq",
-      start: "2022-10-21",
-      end: "2022-10-26",
-    });
-    event
-      .save()
-      .then(() => console.log("success"))
-      .catch((err) => console.log(err));
-    res.status(200).send({
-      message: "info test!",
-    });
+    logger.info("get events");
+
+    console.log(req.query);
+
+    // const event = new EventModel({
+    //   id: "2",
+    //   title: "qqq",
+    //   start: "2022-10-21",
+    //   end: "2022-10-26",
+    // });
+    // event
+    //   .save()
+    //   .then(() => console.log("success"))
+    //   .catch((err) => console.log(err));
+    res
+      .status(200)
+      .send([{ title: "1", start: "2022-10-01", end: "2022-10-22" }]);
   });
 
   /*

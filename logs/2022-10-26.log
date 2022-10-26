@@ -1,0 +1,1232 @@
+2022-10-26 17:01:10 info: ✌️ DB loaded and connected!
+2022-10-26 17:01:10 info: ✌️ Express loaded
+2022-10-26 17:01:10 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 17:05:36 info: [0mGET /api/calendar/events?start=2022-09-25T00:00:00%2B09:00&end=2022-11-06T00:00:00%2B09:00 [33m404[0m 10.645 ms - 158[0m
+
+2022-10-26 17:05:36 info: [0mGET /api/calendar/events?start=2022-09-25T00:00:00%2B09:00&end=2022-11-06T00:00:00%2B09:00 [33m404[0m 2.793 ms - 158[0m
+
+2022-10-26 17:05:43 info: [0mGET /api/calendar/events?start=2022-09-25T00:00:00%2B09:00&end=2022-11-06T00:00:00%2B09:00 [33m404[0m 1.155 ms - 158[0m
+
+2022-10-26 17:05:53 info: [0mGET /api/calendar/events?start=2022-09-25T00:00:00%2B09:00&end=2022-11-06T00:00:00%2B09:00 [33m404[0m 1.019 ms - 158[0m
+
+2022-10-26 17:05:53 info: [0mGET /api/calendar/events?start=2022-09-25T00:00:00%2B09:00&end=2022-11-06T00:00:00%2B09:00 [33m404[0m 1.069 ms - 158[0m
+
+2022-10-26 18:44:46 info: ✌️ DB loaded and connected!
+2022-10-26 18:44:46 info: ✌️ Express loaded
+2022-10-26 18:44:46 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 18:51:02 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 6.508 ms - 158[0m
+
+2022-10-26 18:51:08 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.690 ms - 158[0m
+
+2022-10-26 18:51:08 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.439 ms - 158[0m
+
+2022-10-26 18:51:08 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.382 ms - 158[0m
+
+2022-10-26 18:51:08 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.699 ms - 158[0m
+
+2022-10-26 18:51:08 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.648 ms - 158[0m
+
+2022-10-26 18:51:08 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 2.760 ms - 158[0m
+
+2022-10-26 18:51:09 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.784 ms - 158[0m
+
+2022-10-26 18:51:09 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.390 ms - 158[0m
+
+2022-10-26 18:51:09 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.535 ms - 158[0m
+
+2022-10-26 18:51:09 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.080 ms - 158[0m
+
+2022-10-26 18:51:09 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 2.211 ms - 158[0m
+
+2022-10-26 18:51:09 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.546 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.875 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.600 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.296 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.256 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.419 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.923 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.696 ms - 158[0m
+
+2022-10-26 18:51:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.940 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.808 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.655 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.150 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.902 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.890 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.888 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 4.271 ms - 158[0m
+
+2022-10-26 18:51:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.935 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.868 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.405 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.798 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.908 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.717 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.022 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.655 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.918 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.604 ms - 158[0m
+
+2022-10-26 18:51:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.894 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.328 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.759 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.876 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.956 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.086 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.945 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.176 ms - 158[0m
+
+2022-10-26 18:51:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.852 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.942 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.941 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.710 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.963 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.840 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.787 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.763 ms - 158[0m
+
+2022-10-26 18:51:14 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.836 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.522 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.242 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.587 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 1.014 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.754 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.829 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.716 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.858 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.862 ms - 158[0m
+
+2022-10-26 18:51:15 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.866 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.851 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.772 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.879 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.763 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.879 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.826 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.661 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.880 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.547 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.642 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.613 ms - 158[0m
+
+2022-10-26 18:51:16 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [33m404[0m 0.701 ms - 158[0m
+
+2022-10-26 18:53:18 info: ✌️ DB loaded and connected!
+2022-10-26 18:53:18 info: ✌️ Express loaded
+2022-10-26 18:53:18 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 18:54:31 info: ✌️ DB loaded and connected!
+2022-10-26 18:54:31 info: ✌️ Express loaded
+2022-10-26 18:54:31 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 18:55:00 info: [0mGET /api/calendar/events?start=qwe [33m404[0m 5.259 ms - 158[0m
+
+2022-10-26 18:56:06 info: [0mGET /api/calendar [33m404[0m 1.264 ms - 151[0m
+
+2022-10-26 18:56:16 info: [0mGET /calendar/event [33m404[0m 1.587 ms - 153[0m
+
+2022-10-26 18:56:25 info: [0mGET /calendar/events [33m404[0m 0.855 ms - 154[0m
+
+2022-10-26 18:57:12 info: ✌️ DB loaded and connected!
+2022-10-26 18:57:12 info: ✌️ Express loaded
+2022-10-26 18:57:12 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 18:57:13 info: [0mGET /api/calendar/events?start=qwe [33m404[0m 5.659 ms - 158[0m
+
+2022-10-26 18:57:54 info: ✌️ DB loaded and connected!
+2022-10-26 18:57:54 info: ✌️ Express loaded
+2022-10-26 18:57:54 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 19:00:27 info: ✌️ DB loaded and connected!
+2022-10-26 19:00:27 info: ✌️ Express loaded
+2022-10-26 19:00:27 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 19:00:29 info: [0mGET /api/qq [33m404[0m 5.166 ms - 145[0m
+
+2022-10-26 19:00:54 info: ✌️ DB loaded and connected!
+2022-10-26 19:00:54 info: ✌️ Express loaded
+2022-10-26 19:00:54 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 19:00:56 info: [0mGET /qq [33m404[0m 6.306 ms - 141[0m
+
+2022-10-26 19:01:23 info: [0mGET /api/qq [33m404[0m 1.140 ms - 145[0m
+
+2022-10-26 19:01:49 info: ✌️ DB loaded and connected!
+2022-10-26 19:01:49 info: ✌️ Express loaded
+2022-10-26 19:01:49 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 19:01:50 info: [0mGET /qq [32m200[0m 6.555 ms - 2[0m
+
+2022-10-26 19:02:11 info: ✌️ DB loaded and connected!
+2022-10-26 19:02:11 info: ✌️ Express loaded
+2022-10-26 19:02:11 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 19:03:31 info: ✌️ DB loaded and connected!
+2022-10-26 19:03:31 info: ✌️ logger loaded
+2022-10-26 19:03:31 info: ✌️ express loaded
+2022-10-26 19:03:31 info: 
+      ################################################
+      🛡️  Server listening on port: 5000 🛡️
+      ################################################
+    
+2022-10-26 19:03:45 info: get events
+2022-10-26 19:03:45 info: [0mGET /api/calendar/events [32m200[0m 13.277 ms - 24[0m
+
+2022-10-26 19:04:16 info: get events
+2022-10-26 19:04:16 info: [0mGET /api/calendar/events?start=qwe [32m200[0m 6.266 ms - 24[0m
+
+2022-10-26 19:05:38 info: get events
+2022-10-26 19:05:38 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [32m200[0m 4.513 ms - 24[0m
+
+2022-10-26 19:05:38 info: get events
+2022-10-26 19:05:38 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.483 ms - -[0m
+
+2022-10-26 19:05:39 info: get events
+2022-10-26 19:05:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.025 ms - -[0m
+
+2022-10-26 19:05:39 info: get events
+2022-10-26 19:05:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 6.264 ms - -[0m
+
+2022-10-26 19:05:39 info: get events
+2022-10-26 19:05:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.634 ms - -[0m
+
+2022-10-26 19:05:39 info: get events
+2022-10-26 19:05:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.999 ms - -[0m
+
+2022-10-26 19:05:40 info: get events
+2022-10-26 19:05:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 6.977 ms - -[0m
+
+2022-10-26 19:05:40 info: get events
+2022-10-26 19:05:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 11.068 ms - -[0m
+
+2022-10-26 19:05:40 info: get events
+2022-10-26 19:05:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.998 ms - -[0m
+
+2022-10-26 19:05:40 info: get events
+2022-10-26 19:05:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.684 ms - -[0m
+
+2022-10-26 19:05:40 info: get events
+2022-10-26 19:05:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.312 ms - -[0m
+
+2022-10-26 19:05:40 info: get events
+2022-10-26 19:05:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.123 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.689 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.203 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.727 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.143 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.909 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.318 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.813 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.241 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.038 ms - -[0m
+
+2022-10-26 19:05:41 info: get events
+2022-10-26 19:05:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.666 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.221 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.831 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.236 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.478 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.928 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.725 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.927 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.111 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.506 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.157 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.370 ms - -[0m
+
+2022-10-26 19:05:42 info: get events
+2022-10-26 19:05:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.169 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.137 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.250 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.689 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.007 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.777 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.727 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.840 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.065 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.768 ms - -[0m
+
+2022-10-26 19:05:43 info: get events
+2022-10-26 19:05:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.999 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.789 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.851 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.874 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.021 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.634 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.955 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.194 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.423 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.448 ms - -[0m
+
+2022-10-26 19:05:44 info: get events
+2022-10-26 19:05:44 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.934 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.431 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.765 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.817 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.171 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.508 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.505 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.015 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.894 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.580 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.991 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.914 ms - -[0m
+
+2022-10-26 19:05:45 info: get events
+2022-10-26 19:05:45 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.393 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.170 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.743 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.487 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.791 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.545 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.216 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.414 ms - -[0m
+
+2022-10-26 19:05:46 info: get events
+2022-10-26 19:05:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.300 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.163 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.142 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.540 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.441 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.732 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.889 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.665 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.527 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.952 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.528 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.446 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.436 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.889 ms - -[0m
+
+2022-10-26 19:05:47 info: get events
+2022-10-26 19:05:47 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.046 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.959 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.952 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.082 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.803 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.182 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.861 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.068 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.000 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.855 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.720 ms - -[0m
+
+2022-10-26 19:05:48 info: get events
+2022-10-26 19:05:48 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.785 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 6.513 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.524 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.572 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.828 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.471 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.480 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.746 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.980 ms - -[0m
+
+2022-10-26 19:05:49 info: get events
+2022-10-26 19:05:49 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.872 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.264 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.662 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.538 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.690 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.721 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.299 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.336 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.257 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.681 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.225 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.690 ms - -[0m
+
+2022-10-26 19:05:50 info: get events
+2022-10-26 19:05:50 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.982 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.581 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.560 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.322 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.876 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.881 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.518 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.239 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.991 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.641 ms - -[0m
+
+2022-10-26 19:05:51 info: get events
+2022-10-26 19:05:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.350 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.844 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.284 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.376 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.160 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.559 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.794 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.732 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.515 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.694 ms - -[0m
+
+2022-10-26 19:05:52 info: get events
+2022-10-26 19:05:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.018 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.913 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.894 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.477 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.533 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.680 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.781 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.730 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.858 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.609 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.838 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.834 ms - -[0m
+
+2022-10-26 19:05:53 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.954 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.832 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.133 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.129 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.256 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.017 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.787 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.244 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.002 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.139 ms - -[0m
+
+2022-10-26 19:05:54 info: get events
+2022-10-26 19:05:54 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 7.000 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.401 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.584 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.727 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.119 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.587 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.042 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.885 ms - -[0m
+
+2022-10-26 19:05:55 info: get events
+2022-10-26 19:05:55 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.302 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.220 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.155 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.403 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 6.545 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.952 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.837 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.555 ms - -[0m
+
+2022-10-26 19:05:56 info: get events
+2022-10-26 19:05:56 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.911 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.552 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.807 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.712 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.866 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.759 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.627 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.635 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.869 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.566 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.491 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.023 ms - -[0m
+
+2022-10-26 19:05:57 info: get events
+2022-10-26 19:05:57 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.637 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.855 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.183 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.499 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.954 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.005 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.006 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.433 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.562 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.706 ms - -[0m
+
+2022-10-26 19:05:58 info: get events
+2022-10-26 19:05:58 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.611 ms - -[0m
+
+2022-10-26 19:05:59 info: get events
+2022-10-26 19:05:59 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.482 ms - -[0m
+
+2022-10-26 19:05:59 info: get events
+2022-10-26 19:05:59 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.732 ms - -[0m
+
+2022-10-26 19:05:59 info: get events
+2022-10-26 19:05:59 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.510 ms - -[0m
+
+2022-10-26 19:05:59 info: get events
+2022-10-26 19:05:59 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.015 ms - -[0m
+
+2022-10-26 19:06:00 info: get events
+2022-10-26 19:06:00 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.798 ms - -[0m
+
+2022-10-26 19:06:00 info: get events
+2022-10-26 19:06:00 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.841 ms - -[0m
+
+2022-10-26 19:06:01 info: get events
+2022-10-26 19:06:01 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.625 ms - -[0m
+
+2022-10-26 19:06:01 info: get events
+2022-10-26 19:06:01 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.805 ms - -[0m
+
+2022-10-26 19:06:01 info: get events
+2022-10-26 19:06:01 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.968 ms - -[0m
+
+2022-10-26 19:06:01 info: get events
+2022-10-26 19:06:01 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.497 ms - -[0m
+
+2022-10-26 19:06:01 info: get events
+2022-10-26 19:06:01 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.760 ms - -[0m
+
+2022-10-26 19:06:01 info: get events
+2022-10-26 19:06:01 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.002 ms - -[0m
+
+2022-10-26 19:06:02 info: get events
+2022-10-26 19:06:02 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.912 ms - -[0m
+
+2022-10-26 19:06:02 info: get events
+2022-10-26 19:06:02 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.069 ms - -[0m
+
+2022-10-26 19:06:03 info: get events
+2022-10-26 19:06:03 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.140 ms - -[0m
+
+2022-10-26 19:06:03 info: get events
+2022-10-26 19:06:03 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.422 ms - -[0m
+
+2022-10-26 19:06:03 info: get events
+2022-10-26 19:06:03 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.254 ms - -[0m
+
+2022-10-26 19:06:03 info: get events
+2022-10-26 19:06:03 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.902 ms - -[0m
+
+2022-10-26 19:06:03 info: get events
+2022-10-26 19:06:03 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.867 ms - -[0m
+
+2022-10-26 19:06:03 info: get events
+2022-10-26 19:06:03 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.700 ms - -[0m
+
+2022-10-26 19:06:25 info: get events
+2022-10-26 19:06:25 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.660 ms - -[0m
+
+2022-10-26 19:06:30 info: get events
+2022-10-26 19:06:30 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.759 ms - -[0m
+
+2022-10-26 19:06:32 info: get events
+2022-10-26 19:06:32 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.658 ms - -[0m
+
+2022-10-26 19:06:32 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.408 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.167 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.199 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.855 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.853 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.884 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.811 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.769 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.673 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.157 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.608 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.282 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.804 ms - -[0m
+
+2022-10-26 19:06:33 info: get events
+2022-10-26 19:06:33 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.915 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.675 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.136 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.397 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.995 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.950 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.357 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.718 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.520 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.558 ms - -[0m
+
+2022-10-26 19:06:34 info: get events
+2022-10-26 19:06:34 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.746 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.185 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.880 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.660 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.664 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.797 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.075 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.057 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.046 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.510 ms - -[0m
+
+2022-10-26 19:06:35 info: get events
+2022-10-26 19:06:35 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.816 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.443 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.795 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.092 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.428 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.103 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.561 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.281 ms - -[0m
+
+2022-10-26 19:06:36 info: get events
+2022-10-26 19:06:36 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.827 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.188 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.881 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.947 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.892 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.017 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.098 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.543 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.189 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.996 ms - -[0m
+
+2022-10-26 19:06:37 info: get events
+2022-10-26 19:06:37 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.486 ms - -[0m
+
+2022-10-26 19:06:38 info: get events
+2022-10-26 19:06:38 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.885 ms - -[0m
+
+2022-10-26 19:06:38 info: get events
+2022-10-26 19:06:38 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.895 ms - -[0m
+
+2022-10-26 19:06:38 info: get events
+2022-10-26 19:06:38 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.727 ms - -[0m
+
+2022-10-26 19:06:38 info: get events
+2022-10-26 19:06:38 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.047 ms - -[0m
+
+2022-10-26 19:06:39 info: get events
+2022-10-26 19:06:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.913 ms - -[0m
+
+2022-10-26 19:06:39 info: get events
+2022-10-26 19:06:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.849 ms - -[0m
+
+2022-10-26 19:06:39 info: get events
+2022-10-26 19:06:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.498 ms - -[0m
+
+2022-10-26 19:06:39 info: get events
+2022-10-26 19:06:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.998 ms - -[0m
+
+2022-10-26 19:06:39 info: get events
+2022-10-26 19:06:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.252 ms - -[0m
+
+2022-10-26 19:06:39 info: get events
+2022-10-26 19:06:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.439 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.674 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.961 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.787 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.440 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.700 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.220 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.840 ms - -[0m
+
+2022-10-26 19:06:40 info: get events
+2022-10-26 19:06:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.856 ms - -[0m
+
+2022-10-26 19:06:41 info: get events
+2022-10-26 19:06:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.499 ms - -[0m
+
+2022-10-26 19:06:41 info: get events
+2022-10-26 19:06:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.663 ms - -[0m
+
+2022-10-26 19:06:41 info: get events
+2022-10-26 19:06:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.153 ms - -[0m
+
+2022-10-26 19:06:41 info: get events
+2022-10-26 19:06:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.913 ms - -[0m
+
+2022-10-26 19:06:42 info: get events
+2022-10-26 19:06:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.055 ms - -[0m
+
+2022-10-26 19:06:42 info: get events
+2022-10-26 19:06:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.749 ms - -[0m
+
+2022-10-26 19:06:42 info: get events
+2022-10-26 19:06:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.977 ms - -[0m
+
+2022-10-26 19:06:42 info: get events
+2022-10-26 19:06:42 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.115 ms - -[0m
+
+2022-10-26 19:07:25 info: get events
+2022-10-26 19:07:25 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.557 ms - -[0m
+
+2022-10-26 19:07:26 info: get events
+2022-10-26 19:07:26 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 53.435 ms - -[0m
+
+2022-10-26 19:07:41 info: get events
+2022-10-26 19:07:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.808 ms - -[0m
+
+2022-10-26 19:08:43 info: get events
+2022-10-26 19:08:43 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.670 ms - -[0m
+
+2022-10-26 19:08:46 info: get events
+2022-10-26 19:08:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.826 ms - -[0m
+
+2022-10-26 19:08:53 info: get events
+2022-10-26 19:08:53 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.937 ms - -[0m
+
+2022-10-26 19:09:10 info: get events
+2022-10-26 19:09:10 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.537 ms - -[0m
+
+2022-10-26 19:09:12 info: get events
+2022-10-26 19:09:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.837 ms - -[0m
+
+2022-10-26 19:09:12 info: get events
+2022-10-26 19:09:12 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.537 ms - -[0m
+
+2022-10-26 19:09:32 info: get events
+2022-10-26 19:09:32 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.046 ms - -[0m
+
+2022-10-26 19:09:46 info: get events
+2022-10-26 19:09:46 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.412 ms - -[0m
+
+2022-10-26 19:09:51 info: get events
+2022-10-26 19:09:51 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 6.710 ms - -[0m
+
+2022-10-26 19:09:52 info: get events
+2022-10-26 19:09:52 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 5.503 ms - -[0m
+
+2022-10-26 19:10:11 info: get events
+2022-10-26 19:10:11 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 7.635 ms - -[0m
+
+2022-10-26 19:10:41 info: get events
+2022-10-26 19:10:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.254 ms - -[0m
+
+2022-10-26 19:16:13 info: get events
+2022-10-26 19:16:13 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 6.164 ms - -[0m
+
+2022-10-26 19:18:39 info: get events
+2022-10-26 19:18:39 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.387 ms - -[0m
+
+2022-10-26 19:19:27 info: get events
+2022-10-26 19:19:27 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.270 ms - -[0m
+
+2022-10-26 19:21:40 info: get events
+2022-10-26 19:21:40 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 4.103 ms - -[0m
+
+2022-10-26 19:22:26 info: get events
+2022-10-26 19:22:26 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 2.762 ms - -[0m
+
+2022-10-26 19:27:41 info: get events
+2022-10-26 19:27:41 info: [0mGET /api/calendar/events?start=2022-10-26&end=2022-10-27 [36m304[0m 3.603 ms - -[0m
+
